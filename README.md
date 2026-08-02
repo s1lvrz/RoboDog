@@ -1,6 +1,13 @@
 # RoboDog Mechatronics Task
 <img width="959" height="405" alt="Screenshot 2026-08-02 134659" src="https://github.com/user-attachments/assets/1f3fbef8-c59d-4b9b-a587-6f591ab05d18" />
 
+# Body
+
+<img width="959" height="405" alt="image" src="https://github.com/user-attachments/assets/1717bda1-9aa4-4975-9183-e27ef47f052d" />
+
+# Leg
+<img width="958" height="396" alt="image" src="https://github.com/user-attachments/assets/2f9a910a-9291-47eb-857f-96e617d592ae" />
+
 # Exploded View
 
 <img width="411" height="305" alt="image" src="https://github.com/user-attachments/assets/d8c0fb27-52a9-4cb4-9df2-aea54bc4bcae" />
