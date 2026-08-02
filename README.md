@@ -20,9 +20,5 @@
 
 <img width="529" height="320" alt="image" src="https://github.com/user-attachments/assets/bb4b9460-bdc1-4a70-b1a2-3d9d0818a8ad" />
 
-
-### onshape link:
-https://cad.onshape.com/documents/e7e3e8f3925ebaaf87a2e440/w/e29276f4609a1e18bef4d1f5/e/8c7996636d3f56127ab6f130?renderMode=0&uiState=6a68aace0e948290b30af0a3
-
 ### fusion 360 link:
 https://a360.co/4b4QfuV
