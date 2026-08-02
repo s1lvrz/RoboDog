@@ -6,7 +6,7 @@
 <img width="411" height="305" alt="image" src="https://github.com/user-attachments/assets/d8c0fb27-52a9-4cb4-9df2-aea54bc4bcae" />
 
 
-# Schematic Drawings
+# Schematic Pictures
 
 <img width="529" height="319" alt="image" src="https://github.com/user-attachments/assets/4edf97f0-4556-45aa-9041-934e98fce753" />
 
