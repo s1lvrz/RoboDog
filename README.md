@@ -9,8 +9,7 @@
 <img width="958" height="396" alt="image" src="https://github.com/user-attachments/assets/2f9a910a-9291-47eb-857f-96e617d592ae" />
 
 # Exploded View
-
-<img width="411" height="305" alt="image" src="https://github.com/user-attachments/assets/d8c0fb27-52a9-4cb4-9df2-aea54bc4bcae" />
+<img width="959" height="403" alt="image" src="https://github.com/user-attachments/assets/9c381790-a0b1-4b92-816d-194a0839db70" />
 
 
 # Schematic Pictures
