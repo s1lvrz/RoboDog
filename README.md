@@ -7,6 +7,8 @@
 
 # Leg
 <img width="958" height="396" alt="image" src="https://github.com/user-attachments/assets/2f9a910a-9291-47eb-857f-96e617d592ae" />
+<img width="959" height="401" alt="image" src="https://github.com/user-attachments/assets/b97e484b-f732-4624-8eb1-bbe3d9428263" />
+
 
 # Exploded View
 <img width="959" height="403" alt="image" src="https://github.com/user-attachments/assets/9c381790-a0b1-4b92-816d-194a0839db70" />
